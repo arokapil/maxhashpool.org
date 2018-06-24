@@ -1,0 +1,4 @@
+Issue fixed "Pool sent wrong data, cannot set epoch" Claymore's Dualminer error
+
+New claymore version for etc miner and for the week miner.
+supports all coin.
